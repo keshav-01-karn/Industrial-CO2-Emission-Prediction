@@ -61,7 +61,6 @@ Permutation importance 📈[permutation_plot](https://github.com/keshav-01-karn/
 👉 Fuel consumption, flue gas flow, and production rate are the most significant drivers of CO₂ emissions.
 
 ### Classification: Emission Bands
-
 - Target divided into Low / Medium / High emission categories.<br>
 - Model: Random Forest Classifier (200 trees)<br>
 - Accuracy: 0.85<br>
@@ -69,11 +68,12 @@ Permutation importance 📈[permutation_plot](https://github.com/keshav-01-karn/
   <img width="400" height="400" alt="conf_matrix" src="https://github.com/user-attachments/assets/87d8dd17-1cb0-4100-aaf2-865378fcb310" /> <br>
   This shows the model can reliably categorize emission ranges.
 
-### 📊 Key Results & Insights
+### 📊 Key Results & Insights 
   - Regression model predicts continuous CO₂ emissions with good accuracy.
   - Classification model effectively categorizes emissions into risk bands.
   - Scrubber efficiency plays a role but is less dominant than fuel/flow/production.
   - Feature importance analysis helps identify process levers for emission control.
+    
 ### ⚠️ Limitations
   - Synthetic Data: Not validated against real plant conditions.
   - Simplified Assumptions: Emission generation logic is linear with added noise.
