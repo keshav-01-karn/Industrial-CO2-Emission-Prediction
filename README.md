@@ -1,5 +1,17 @@
 # 🌏**CO₂ Emission Prediction using Machine Learning**
 
+## Table of Contents
+ - [Project Overview](project-overview)
+ - [Dataset](dataset)
+ - [Exploratory Data Analysis](exploratory-data-analysis)
+ - [Machine Learning Model](machine-learning-model)
+ - [Feature Importance](feature-importance)
+ - [Classification: Emission Bands](classification-emission-bands)
+ - [Key Results & Insights](key-results-&-insights)
+ - [Limitations](limitations)
+
+
+
 ### Project Overview
 In this project, I built a **Machine Learning model** to predict **CO₂ emissions** from industrial process parameters (synthetic plant data). The project simulates how data science can be applied in **process optimization and emission reduction strategies** for sustainable operations.
 
@@ -24,9 +36,9 @@ Key steps include:<br>
 
 ### Exploratory Data Analysis
 1. **Distribution of CO₂ Emissions**<br>
-The distribution shows that most emissions fall around the mean with some variance — consistent with synthetic industrial     operations. [CO2_Emissons_Distribution](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/histogram_co2.png)
+The distribution shows that most emissions fall around the mean with some variance — consistent with synthetic industrial     operations.📈[CO2_Emissons_Distribution](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/histogram_co2.png)
 2. **Feature Correlation Matrix**<br>
-Highlights that **flue gas flow, production rate, and fuel consumption** are strongly correlated with CO₂ emissions.[Correlation_Matrix](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/correlation_matrix.png)<br>
+Highlights that **flue gas flow, production rate, and fuel consumption** are strongly correlated with CO₂ emissions.          📈[Correlation_Matrix](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/correlation_matrix.png)<br>
 3. **Scatterplots (CO₂ vs Features**)<br>
 Confirms strong positive correlations with **production rate, flue gas flow, and fuel consumption**.
 <img width="500" height="500" alt="features_scatter_plot" src="https://github.com/user-attachments/assets/20040bb4-8b60-49c5-b9ab-a494e9419b89" />
@@ -43,8 +55,8 @@ Confirms strong positive correlations with **production rate, flue gas flow, and
 
 ### Feature Importance
 
-Impurity-based importance [impurity_plot](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/feature_importance_impurity.png)<br>
-Permutation importance [permutation_plot](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/feature_importance_perm.png)<br>
+Impurity-based importance 📈 [impurity_plot](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/feature_importance_impurity.png)<br>
+Permutation importance 📈[permutation_plot](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/feature_importance_perm.png)<br>
 
 👉 Fuel consumption, flue gas flow, and production rate are the most significant drivers of CO₂ emissions.
 
