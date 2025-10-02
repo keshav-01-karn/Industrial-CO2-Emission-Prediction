@@ -13,7 +13,7 @@ Key steps include:<br>
 - **Limitations** for real-world application.<br>
 
 ### Dataset
-- File: CO2_Distillation_Dataset [Download Here](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/CO2_Distillation_Dataset.csv)<br>
+- File: [ CO2_Distillation_Dataset](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/CO2_Distillation_Dataset.csv)<br>
 - Records: 2000 samples (hourly plant data).<br>
 - Features include:<br>
   - Plant ID, Fuel Type<br>
@@ -21,6 +21,9 @@ Key steps include:<br>
   - Flue Gas Flow, Fuel Consumption, Production Rate<br>
   - Scrubber presence & efficiency,energy_consumption_MW<br>
 - Target: co2_net_kg_hr (Net CO₂ emissions in kg/h).
+
+### Exploratory Data Analysis
+
 
 
 
