@@ -13,7 +13,7 @@ Key steps include:<br>
 - **Limitations** for real-world application.<br>
 
 ### Dataset
-- File: yokogawa_co2_synthetic.csv<br>
+- File: CO2_Distillation_Dataset [Download Here](https://github.com/keshav-01-karn/Industrial-CO2-Emission-Prediction/blob/main/CO2_Distillation_Dataset.csv)<br>
 - Records: 2000 samples (hourly plant data).<br>
 - Features include:<br>
   - Plant ID, Fuel Type<br>
