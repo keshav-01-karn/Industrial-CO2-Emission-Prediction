@@ -1,14 +1,14 @@
 # 🌏**CO₂ Emission Prediction using Machine Learning**
 
 ## Table of Contents
- - [Project Overview](project-overview)
- - [Dataset](dataset)
- - [Exploratory Data Analysis](exploratory-data-analysis)
- - [Machine Learning Model](machine-learning-model)
- - [Feature Importance](feature-importance)
- - [Classification: Emission Bands](classification-emission-bands)
- - [Key Results & Insights](key-results-&-insights)
- - [Limitations](limitations)
+ - [Project Overview](#project-overview)
+ - [Dataset](#dataset)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [Machine Learning Model](#machine-learning-model)
+ - [Feature Importance](#feature-importance)
+ - [Classification: Emission Bands](#classification-emission-bands)
+ - [Key Results & Insights](#key-results-&-insights)
+ - [Limitations](#limitations)
 
 
 
